@@ -1,5 +1,5 @@
 package com.example.lab08;
-
+// small change in the form of a comment
 public class City {
     private String city;
     private String province;
